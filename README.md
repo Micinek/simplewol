@@ -52,7 +52,7 @@ werkzeug
 ## Quick Install
 
 ```bash
-git clone https://git.micin.cz/stalker/simplewol.git
+git clone https://github.com/Micinek/simplewol.git
 cd simplewol
 chmod +x install.sh
 sudo ./install.sh
